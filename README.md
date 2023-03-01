@@ -8,19 +8,27 @@
   </a>
 </div>
 
-# Languages
-
+## Languages
 <div>
-  <div style="display: flex; flex-direction: column;">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png"/>
-    <p>HTML</p>
-  </div>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/css/css.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/javascript/javascript.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/sql/sql.png"/>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/csharp/csharp.png"/>
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/css/css.png" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/javascript/javascript.png" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/sql/sql.png" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/csharp/csharp.png" width="32" height="32">
 </div>
 
-# Tools
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/007ACC"/>
+## Tools
+<div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/ffffff"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/eclipseide/ffffff"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/ffffff"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/unity/ffffff"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git/ffffff"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github/ffffff"/>
+</div>
+
+## Frameworks
+<div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react/ffffff"/>
+</div>
