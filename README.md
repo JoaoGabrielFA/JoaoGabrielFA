@@ -54,11 +54,11 @@ Sou Desenvolvedor Full-Stack e no momento estou cursando Análise e Desenvolvime
 </table>
 <br/>
 <div>
-  <a href="https://github.com/joaogabrielfa/github-readme-stats">
-    <img  margin="auto" src="https://github-readme-stats.vercel.app/api?username=joaogabrielfa&show_icons=true&theme=dark&border_color=79ff97&title_color=79ff97"/>
+  <a href="https://github.com/joaogabrielfa/github-readme-stats-fast">
+    <img  margin="auto" src="https://github-readme-stats-fast.vercel.app/api?username=joaogabrielfa&show_icons=true&theme=dark&border_color=79ff97&title_color=79ff97"/>
   </a>
-  <a href="https://github.com/joaogabrielfa/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielfa&theme=dark&border_color=79ff97&title_color=79ff97&layout=compact"/>
+  <a href="https://github.com/joaogabrielfa/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joaogabrielfa&theme=dark&border_color=79ff97&title_color=79ff97&layout=compact"/>
   </a>
 </div>
 
