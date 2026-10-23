@@ -1,5 +1,5 @@
 # Olá, me chamo João Gabriel
-Sou Desenvolvedor Full-Stack e no momento estou cursando Análise e Desenvolvimento de Sistemas.
+Sou Desenvolvedor Full-Stack formado em Análise e Desenvolvimento de Sistemas.
 
 <a href="https://www.linkedin.com/in/joaogabrielfa/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
